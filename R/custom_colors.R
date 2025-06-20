@@ -24,4 +24,4 @@ customcolors <- list(
   purple = "#a869f5",
   orange = "#ff7936"
 )
-use_data(customcolors)
+# use_data(customcolors)
