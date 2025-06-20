@@ -6,6 +6,9 @@
 \usage{
 theme_glass()
 }
+\value{
+A custom theme for ggplot2
+}
 \description{
 A custom theme for ggplot2
 }

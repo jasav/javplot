@@ -1,4 +1,6 @@
 #' A custom theme for ggplot2
+#' @return A custom theme for ggplot2
+#' @export
 theme_glass <- function(){
   ggplot2::theme_gray() +
     ggplot2::theme(
