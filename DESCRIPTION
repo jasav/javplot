@@ -1,8 +1,8 @@
 Package: javplot
-Title: What the Package Does (One Line, Title Case)
+Title: Jonas' Custom ggplot2 Theme and Custom Colours
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+    person("Jonas", "Villumsen", , "jv@cc.au.dk", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
@@ -12,3 +12,5 @@ RoxygenNote: 7.3.2.9000
 Depends: 
     R (>= 3.5)
 LazyData: true
+Imports: 
+    ggplot2
